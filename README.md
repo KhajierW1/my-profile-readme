@@ -1,4 +1,4 @@
-## 👏 Hi, I'm Khajier Wright
+## 👏 Hi, I'm Khajier Wright!
 ##  About Me
 _"I'm a cybersecurity major student at the University of Texas at San Antonio interested in technology, digital security, and learning how to protect systems and data."_
 ## ⚒️ Skills I'm developing
